@@ -26,6 +26,8 @@ so u won't need it to waste your time doing it manually and you will save money 
 
 6) Syncs website dumps to dropbox
 
+7) Deletes temporary server / storage
+
 ### Requirements
 
 * SilverStripe websites with NGINX environment at Digital Ocean
@@ -42,6 +44,8 @@ so u won't need it to waste your time doing it manually and you will save money 
 * Install python
 * Install following python modules: python-requests, python-sockets, python-subprocess, python-json, python-requests
 * Install zip
+* Get API key at DigitalOcean control pane (it will be used to create temporary storage / server)
+* Setup SSH key at your server and add it to Digital Ocean control pane (it will be used to access temporary server)
 * Setup variables at _config.py
 * run Dropbox-Uploader/dropbox_uploader.sh to setup Dropbox API variables
 * run backup.py to start backup process
