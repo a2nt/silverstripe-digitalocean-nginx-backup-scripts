@@ -49,8 +49,9 @@ so u won't need it to waste your time doing it manually and you will save money 
 * Setup variables at _config.py
 * run Dropbox-Uploader/dropbox_uploader.sh to setup Dropbox API variables
 * run backup.py to start backup process
-* You can put backup.py to crontab to execute automatically
+* You can put backup.py to crontab to execute it automatically
 
 ### Options
 * Install python-mysqldb to clean up MySQL database and NGINX configuration files based on site folder names and run cleandb.py
-* You can put cleandb.py to crontab to execute automatically
+* You can put cleandb.py to crontab to execute it automatically
+* Install imagemagic and run imageresize.sh script at a specific folder to resample all images bigger than 1900x1200
