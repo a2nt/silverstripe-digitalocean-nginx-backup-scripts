@@ -1,4 +1,4 @@
-# SilverStripe Digital Ocean Dropbox backing up Environment
+# SilverStripe Digital Ocean + Dropbox + NGINX service scripts
 
 ## Dropbox SilverStripe environment backing up scripts using Digital Ocean temporary block storage or server
 
