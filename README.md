@@ -55,3 +55,6 @@ so u won't need it to waste your time doing it manually and you will save money 
 * Install python-mysqldb to clean up MySQL database and NGINX configuration files based on site folder names and run cleandb.py
 * You can put cleandb.py to crontab to execute it automatically
 * Install imagemagic and run imageresize.sh script at a specific folder to resample all images bigger than 1900x1200
+
+[My personal website](https://twma.pro)
+[Buy me a Beer](https://www.paypal.me/tonytwma)
