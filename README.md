@@ -56,5 +56,6 @@ so u won't need it to waste your time doing it manually and you will save money 
 * You can put cleandb.py to crontab to execute it automatically
 * Install imagemagic and run imageresize.sh script at a specific folder to resample all images bigger than 1900x1200
 
-[My personal website](https://twma.pro)
+[My personal website](https://tony.twma.pro)
+
 [Buy me a Beer](https://www.paypal.me/tonytwma)
